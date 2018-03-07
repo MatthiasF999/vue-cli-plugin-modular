@@ -1,0 +1,33 @@
+{
+  "name": "vue-cli-plugin-modular",
+  "version": "0.0.1",
+  "description": "Plugin for vue cli 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasF999/vue-cli-plugin-modular.git"
+  },
+  "keywords": [
+    "modular",
+    "plugin",
+    "vue",
+    "cli",
+    "3"
+  ],
+  "author": "Matthias Feldmann <matthias@feldmann.hamburg>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthiasF999/vue-cli-plugin-modular/issues"
+  },
+  "homepage": "https://github.com/MatthiasF999/vue-cli-plugin-modular#readme",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
