@@ -1,7 +1,8 @@
 # vue-cli-plugin-modular
-This is a vue-cli@3.0 plugin, allowing to create separate modules.
+This is a `vue-cli@3.0` plugin, allowing to create separate modules.
 
 ## Quickstart
+Install package in existing project with yarn or npm.
 ```
 npm i -D vue-cli-plugin-modular
 # or

@@ -1,7 +1,7 @@
 {
   "name": "vue-cli-plugin-modular",
-  "version": "0.0.1",
-  "description": "Plugin for vue cli 3",
+  "version": "0.0.2",
+  "description": "Plugin for vue-cli@3 to work with separate modules ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
